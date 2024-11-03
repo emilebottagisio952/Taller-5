@@ -1,0 +1,11 @@
+Pedido ID: 1
+Cliente: ksks
+Dirección: ksks
+----------------
+corral pollo
+    +pina                2500
+            17500
+----------------
+Precio Neto:  17500
+IVA:          3325
+Precio Total: 20825
